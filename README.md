@@ -6,6 +6,8 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: [ozeliurs@gmail.com](mailto:ozeliurs@gmail.com)
 
+# Some Stats on me
+<br>
 [![Ozeliurs' Stats](https://github-readme-stats.vercel.app/api?username=oseliurs)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oseliurs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
