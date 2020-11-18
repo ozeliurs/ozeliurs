@@ -8,6 +8,10 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: [ozeliurs@gmail.com](mailto:ozeliurs@gmail.com)
 
+### My music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default)](https://link.tospotify.com/pjmOWSCWvbb)
+
 ### Some Stats on me
 [![Ozeliurs' Stats](https://github-readme-stats.vercel.app/api?username=oseliurs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oseliurs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
