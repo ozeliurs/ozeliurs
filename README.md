@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maxime aka Ozeliurs</h1>
-<p>![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - 🔭 I’m currently a Computer Science Student
 - 🌱 I’m currently learning C++ and HTML/CSS
