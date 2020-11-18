@@ -1,4 +1,4 @@
-### Hi there, I'm Maxime aka Ozeliurs
+<h1 align="center">Hi there, I'm Maxime aka Ozeliurs</h1>
 
 - 🔭 I’m currently a Computer Science Student
 - 🌱 I’m currently learning C++ and HTML/CSS
