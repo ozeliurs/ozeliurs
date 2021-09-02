@@ -23,8 +23,3 @@
 <a href="https://twitter.com/ozeliurs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ozeliurs" height="30" width="40" /></a>
 <a href="https://instagram.com/electromaxperso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="electromaxperso" height="30" width="40" /></a>
 </p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ozeliurs-MaximeBilly&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozeliurs-maximebilly&show_icons=true&locale=en" alt="ozeliurs-maximebilly" /></p>
-
