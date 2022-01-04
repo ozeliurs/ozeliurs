@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
 <h3 align="center">A computer science student in Aix-en-Procence.</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat"></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat">
+  <a href="https://ozeliurs.com"><img src="https://img.shields.io/website-up-down-green-red/http/www.ozeliurs.com"></a>
+</p>
 
 - 🔭 I’m currently working on **passing my first year.**
 
