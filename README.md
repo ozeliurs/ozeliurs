@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
 <h3 align="center">A computer science student in Aix-en-Procence.</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="ozeliurs-maximebilly" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat">
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ozeliurs-maximebilly" alt="ozeliurs-maximebilly" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ozeliurs-maximebilly">
 
 - 🔭 I’m currently working on **passing my first year.**
 
