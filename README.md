@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ozeliurs@gmail.com**
 
-- <a href="https://ozeliurs.com"><img src="https://img.shields.io/website-up-down-green-red/http/www.ozeliurs.com"></a>
+- <a href="https://ozeliurs.com">My Website</a>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
