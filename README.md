@@ -3,8 +3,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat"></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ozeliurs-maximebilly">
-
 - 🔭 I’m currently working on **passing my first year.**
 
 - 🌱 I’m currently learning **C++ and HTML/CSS**
@@ -17,8 +15,9 @@
 
 - See [what i'm capable of](https://ozeliurs.com)
 
-#### Github Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly&show_icons=true&theme=gotham" alt="github stats" width="45%"></p>
+<h3 align="left">Github Stats:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly&show_icons=true&theme=gotham" alt="github stats" width="45%">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%"></p>
 
 <h3 align="left">Listen with me:</h3>
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></p>
