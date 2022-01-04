@@ -15,13 +15,6 @@
 
 - See [what i'm capable of](https://ozeliurs.com)
 
-<h3 align="left">Github Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly" width="45%">
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=white" width="48%"></p>
-
-<h3 align="left">Listen with me:</h3>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:ozeliurs@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -30,3 +23,10 @@
   <a href="https://twitter.com/ozeliurs" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://instagram.com/electromaxperso" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
+
+<h3 align="left">Github Stats:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly" width="45%">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=white" width="48%"></p>
+
+<h3 align="left">Listen with me:</h3>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></p>
