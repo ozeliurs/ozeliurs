@@ -16,7 +16,7 @@
 - See [what i'm capable of](https://ozeliurs.com)
 
 <h3 align="left">Github Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly&show_icons=true&theme=gotham" alt="github stats" width="45%">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="45%">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%"></p>
 
 <h3 align="left">Listen with me:</h3>
