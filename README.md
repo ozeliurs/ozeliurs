@@ -17,6 +17,9 @@
 
 - See [what i'm capable of](https://ozeliurs.com)
 
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 <h3 align="left">Listen with me:</h3>
 <p align="center"><a href="https://link.tospotify.com/pjmOWSCWvbb"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></a></p>
 
