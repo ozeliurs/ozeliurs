@@ -33,8 +33,8 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs-MaximeBilly" width="45%">
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=white" width="48%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs" width="45%">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozeliurs&theme=white" width="48%"></p>
 
 <h3 align="left">Listen with me:</h3>
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></p>
