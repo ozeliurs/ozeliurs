@@ -1,49 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
-<h3 align="center">A computer science student in Aix-en-Procence.</h3>
+<h3 align="center">A computer science student in Sophia Antipolis.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat">
-  <a href="https://ozeliurs.com"><img src="https://img.shields.io/website-up-down-green-red/http/www.ozeliurs.com"></a>
-</p>
+<img style="display: block; margin: 15px auto" src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
 
-- 🔭 I’m currently working on **passing my first year.**
+- 🔭 I’m currently working on **school projects**.
 
-- 🌱 I’m currently learning **C++ and HTML/CSS**
+- 🌱 I’m learning **Angular and Django**
 
-- 👯 I’m looking to collaborate on some **C++ projects**.
+- 👯 I’m looking to collaborate on some **Python projects**.
 
 - 💬 Ask me about **Python.**
 
 - 📫 How to reach me **ozeliurs@gmail.com**
 
-- <a href="https://ozeliurs.com">My Website</a>
+- My Resume: [ozeliurs.com](https://ozeliurs.com)
 
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+---
 
-<h3 align="left">Github Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozeliurs" width="45%">
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozeliurs&theme=white" width="48%"></p>
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Listen with me:</h3>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ij8hbagzwbrs3xv770thmuyvt&cover_image=true&theme=default"></p>
+### Github Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:ozeliurs@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discordapp.com/users/325623032456413186" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://t.me/ozeliurs" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://twitter.com/ozeliurs" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/electromaxperso" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ozeliurs)
+
+### Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozeliurs@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/325623032456413186)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-billy-6863551a9/)
+[![Keybase PGP](https://img.shields.io/badge/gpg-DC5DE5E56928EB25-474747?style=for-the-badge)](https://github.com/ozeliurs.gpg)
