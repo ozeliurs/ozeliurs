@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
 <h3 align="center">A computer science student in Sophia Antipolis.</h3>
 
-<img style="display: block; margin: 15px auto" src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
+<p align="center" style="margin: 15px auto">
+  <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
+</p>
+
 
 - 🔭 I’m currently working on **school projects**.
 
