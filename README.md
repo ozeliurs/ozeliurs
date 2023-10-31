@@ -5,15 +5,6 @@
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
 </p>
 
-
-- 🔭 I’m currently working on **school projects**.
-
-- 🌱 I’m learning **Angular and Django**
-
-- 👯 I’m looking to collaborate on some **Python projects**.
-
-- 💬 Ask me about **Python.**
-
 - 📫 How to reach me **ozeliurs@gmail.com**
 
 - My Resume: [ozeliurs.com](https://ozeliurs.com)
