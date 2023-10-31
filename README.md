@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ozeliurs@gmail.com**
 
-- My Resume: [ozeliurs.com](https://ozeliurs.com)
+- My Resume: [here](resume.pdf)
 
 ---
 
