@@ -28,7 +28,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ozeliurs)
 
-![https://wakatime.com/share/@018c63cb-839f-41d6-aacd-5d9d7525c778/b46ae3e8-5c11-4dff-ba2a-8f65e355ac3e.svg](https://wakatime.com/share/@018c63cb-839f-41d6-aacd-5d9d7525c778/e3801386-f6dc-4774-a73c-90a6882de8a4.svg)
+![https://wakapi.dev/api/activity/chart/ozeliurs.svg](https://wakapi.dev/api/activity/chart/ozeliurs.svg)
 
 
 ### Connect with me
