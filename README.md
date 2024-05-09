@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **ozeliurs@gmail.com**
 
-- My Resume: [here](resume.pdf)
+- My [Resume](resume.pdf)
+
+- My [Credly Badges](https://www.credly.com/users/maxime-billy/badges)
 
 ---
 
