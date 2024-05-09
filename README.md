@@ -9,7 +9,7 @@
 
 - My [Resume](resume.pdf)
 
-- My [Credly Badges](https://www.credly.com/users/maxime-billy/badges)
+- My [Credly Badges](https://www.credly.com/users/maxime-billy)
 
 ---
 
