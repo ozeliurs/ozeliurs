@@ -5,10 +5,11 @@
     <h3>A computer science student in Sophia Antipolis.</h3>
 </div>
 
-<div></div>
-<div></div>
-<div></div>
-<div></div>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <div align="center">
     <h3>Connect With Me</h3>
