@@ -5,6 +5,9 @@
     <h3>A computer science student in Sophia Antipolis.</h3>
 </div>
 
+
+
+
 <div align="center">
     <h3>Connect With Me</h3>
         <a href="https://github.com/ozeliurs"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
