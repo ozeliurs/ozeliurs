@@ -7,7 +7,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
     <h3>Connect With Me</h3>
@@ -15,6 +14,11 @@
         <a href="https://www.linkedin.com/in/maxime-billy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:ozeliurs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </div>
+
+<details>
+  <summary><h3>Github Stats</h3></summary>
+  <p>TODO</p>
+</details>
 
 ### Github Stats
 
