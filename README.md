@@ -17,7 +17,9 @@
 
 <details>
   <summary><h3>Github Stats</h3></summary>
-  <p>TODO</p>
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ozeliurs&show_icons=true" alt="Github Stats">
+  </div>
 </details>
 
 ### Github Stats
