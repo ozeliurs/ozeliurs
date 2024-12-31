@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ozeliurs</h1>
-<h3 align="center">A computer science student in Sophia Antipolis.</h3>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div>
+        <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
+        <h3 align="center">A computer science student in Sophia Antipolis.</h3>
+    </div>
+    <img src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+    ### Connect With Me
+    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ozeliurs)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxime-billy/)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ozeliurs@gmail.com)
+</div>
 
 <p align="center" style="margin: 15px auto">
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
