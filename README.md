@@ -1,6 +1,6 @@
 <div align="left">
     <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
-    <h1>Hi 👋, I'm Ozeliurs</h1>
+    <h2>Hi 👋, I'm Ozeliurs</h2>
     <h3>A computer science student in Sophia Antipolis.</h3>
 </div>
 
