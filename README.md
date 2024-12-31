@@ -15,6 +15,8 @@
         <a href="mailto:ozeliurs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </div>
 
+<img src="profile-3d-contrib/profile-gitblock.svg" alt="Profile 3D Contribution" width="800" height="400">
+
 <details>
   <summary><h3>Github Stats</h3></summary>
   <div align="center">
