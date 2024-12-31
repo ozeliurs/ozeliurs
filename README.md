@@ -1,14 +1,8 @@
-<table>
-    <tr>
-        <td width="70%">
-            <h1 align="center">Hi 👋, I'm Ozeliurs</h1>
-            <h3 align="center">A computer science student in Sophia Antipolis.</h3>
-        </td>
-        <td width="30%">
-            <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
-        </td>
-    </tr>
-</table>
+<div align="left">
+    <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
+    <h1>Hi 👋, I'm Ozeliurs</h1>
+    <h3>A computer science student in Sophia Antipolis.</h3>
+</div>
 
 <div align="center">
     <h3>Connect With Me</h3>
