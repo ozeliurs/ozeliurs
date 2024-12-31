@@ -1,4 +1,4 @@
-<table>
+<table width="100%" align="center">
     <tr>
         <td>
             <h1>Hi 👋, I'm Ozeliurs</h1>
