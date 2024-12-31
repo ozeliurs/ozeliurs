@@ -22,7 +22,7 @@
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ozeliurs&show_icons=true" alt="Github Stats">
       <img src="https://wakapi.dev/api/activity/chart/ozeliurs.svg" alt="Wakatime Stats">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozeliurs" alt="Activity Graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozeliurs&theme=github-light" alt="Activity Graph">
       <img src="https://github-profile-trophy.vercel.app/?username=ozeliurs&row=1" alt="Trophy Case">
   </div>
 </details>
