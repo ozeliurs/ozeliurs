@@ -4,10 +4,6 @@
     <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
 </div>
 
-<br>
-<br>
-<br>
-
 <div align="center">
     <h3>Connect With Me</h3>
         <a href="https://github.com/ozeliurs"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
