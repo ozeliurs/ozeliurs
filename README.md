@@ -18,31 +18,14 @@
 <img src="profile-3d-contrib/profile-gitblock.svg" alt="Profile 3D Contribution" width="800" height="400">
 
 <details>
-  <summary><h3>Github Stats</h3></summary>
+  <summary><h3>More Stats</h3></summary>
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ozeliurs&show_icons=true" alt="Github Stats">
+      <img src="https://wakapi.dev/api/activity/chart/ozeliurs.svg" alt="Wakatime Stats">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozeliurs" alt="Activity Graph">
+      <img src="https://github-profile-trophy.vercel.app/?username=ozeliurs&row=1" alt="Trophy Case">
   </div>
 </details>
-
-### Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ozeliurs)
-
-![https://wakapi.dev/api/activity/chart/ozeliurs.svg](https://wakapi.dev/api/activity/chart/ozeliurs.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozeliurs&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozeliurs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozeliurs&layout=compact&theme=radical)
-
-### Contributions
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozeliurs&theme=react-dark)
-
-### Trophy Case
-![Trophies](https://github-profile-trophy.vercel.app/?username=ozeliurs&theme=darkhub&row=1)
-
-</div>
 
 <p align="center" style="margin: 15px auto">
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
