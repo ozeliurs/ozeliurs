@@ -1,10 +1,8 @@
 <div align="left">
-    <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
     <h1>Hi 👋, I'm Ozeliurs</h1>
     <h3>A computer science student in Sophia Antipolis.</h3>
+    <img align="right" src="https://github.com/ozeliurs.png" alt="Profile" width="200" height="200" style="border-radius: 50%;">
 </div>
-
-<hr>
 
 <div align="center">
     <h3>Connect With Me</h3>
