@@ -33,5 +33,4 @@
 
 <p align="center" style="margin: 15px auto">
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
-  <script src="https://cyberdefenders.org/p/ozeliurs/badge"></script>
 </p>
