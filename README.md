@@ -33,4 +33,5 @@
 
 <p align="center" style="margin: 15px auto">
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=ozeliurs-maximebilly&label=Profile%20views&color=0e75b6&style=flat" alt="Page Views">
+  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ozeliurs.png" width="300" />
 </p>
